@@ -13,7 +13,7 @@ Over 17 years, I've worked across monoliths and Kafka-driven microservices in re
 
 ## **Focus right now**
 
-- Backend engineering, system design, and data and platform engineering.
+- Backend, system design and data/platform engineering.
 - I'm also learning Rust 🦀, which pairs well with Python for fast, reliable backend and data tooling.
 
 ## **Toolbelt**
