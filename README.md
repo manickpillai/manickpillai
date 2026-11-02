@@ -21,7 +21,7 @@ Over 17 years, I've worked across monoliths and Kafka-driven microservices in re
 - **Languages:** Python, JavaScript, Shell scripting (proficient); Java, Groovy (working knowledge)
 - **Cloud and DevOps:** AWS, Azure, Docker, Kubernetes, GitHub Actions, GitLab CI
 - **Data and messaging:** Apache Kafka, SQL, PySpark, Apache Hudi, Pandas, Polars
-- **Observability:** Prometheus, Grafana
+- **Observability:** Prometheus, Grafana, Splunk
 - **Testing:** Pytest, Playwright, Selenium, Robot Framework
 
 ## **Let's connect**
